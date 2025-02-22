@@ -27,14 +27,19 @@ This project was created as an interactive dashboard for a coffee shop to enable
    Pressed ctrl and T to create a table and bring in the table design session into the table. This is necessary because I want to use a pivot table and when the table designed is been used, if there is a new column inserted or an update to the formulae it will be so 
    much easier for the pivot table to update automatically.
 9. ###### PIVOT TABLE AND PIVOT CHARTS
-   Inserted a pivot table to be able to calculate for the totoal sales across each months from January 2019-December 2022 and inserted a line chart to visualized this as well, using the pivot table created another sheet to calculate the the country with the highes sales 
-   and the top 5 customers and arrange them in a descending order, for the  sales by country I customixed it with the highes country showing dark green and the least country in terms of sales was made to be light green.
+   Inserted a pivot table to be able to calculate for the totoal sales across each months from January 2019-December 2022 and inserted a line chart to visualized this as well, using the pivot table created 
+   another sheet to calculate the the country with the highes sales 
+   and the top 5 customers and arrange them in a descending order, for the  sales by country I customixed it with the highes country showing dark green and the least country in terms of sales was made to be light 
+   green.
 10. ###### INSERTED TIMELINE, SLICERS AND FORMATTED
-   On the Total sales sheet went to the pivot table analyzer and inserted timeline when each order was made to enable navigation on time series when each order was made. Went ahead to insert slicers fro layalty cards, Roast type name and size ensuring they are 
-   customized appropriately
+   On the Total sales sheet went to the pivot table analyzer and inserted timeline when each order was made to enable navigation on time series when each order was made. Went ahead to insert slicers fro layalty 
+   cards, Roast type name and size ensuring they are customized appropriately.
+   
 11. ###### BUILDING THE DASHBOARD
-    Created another sheet solely for the purpose to bring all the developed data charts, timeline and slicers together to begin visualizing the dashboard. On the Dashboard sheet inserted a rectangular shape customized it to purple colour and font white to eb able write 
-    the desired name of the dashboard. Cut and pasted each of the chart and slicers into the dashboard sheet and connected the sales by country and top 5 customers chart to the timeline and slicers to have this as a one functional document.
+    Created another sheet solely for the purpose to bring all the developed data charts, timeline and slicers together to begin visualizing the dashboard. On the Dashboard sheet inserted a rectangular shape 
+    customized it to purple colour and font white to eb able write 
+    the desired name of the dashboard. Cut and pasted each of the chart and slicers into the dashboard sheet and connected the sales by country and top 5 customers chart to the timeline and slicers to have this 
+    as a one functional document.
 
 
 
